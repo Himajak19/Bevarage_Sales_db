@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Beverage Sales Performance Dashboard | Power BI
 
 ## 1. Project Overview
